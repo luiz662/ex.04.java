@@ -1,1 +1,2 @@
-# ex.04.java
+# logica-programacao-js-exercicios04
+logica-programacao-js-exercicios04
